@@ -1,1 +1,4 @@
 text-classification: https://www.dataquest.io/blog/tutorial-text-classification-in-python-using-spacy/
+
+
+https://course.spacy.io/en/
