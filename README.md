@@ -14,3 +14,7 @@ A guide that has all about NLP content state-of-art models, techniques and appro
 #### References 
 
 Transformers and BERT: https://www.analyticsvidhya.com/blog/2019/06/understanding-transformers-nlp-state-of-the-art-models/
+
+<br>
+
+BERT with TensorFlow : https://www.tensorflow.org/tutorials/text/classify_text_with_bert
