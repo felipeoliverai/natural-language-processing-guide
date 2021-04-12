@@ -18,3 +18,8 @@ Transformers and BERT: https://www.analyticsvidhya.com/blog/2019/06/understandin
 <br>
 
 BERT with TensorFlow : https://www.tensorflow.org/tutorials/text/classify_text_with_bert
+
+
+<br>
+
+* Testing Rasa Framework <br> 
